@@ -23,11 +23,18 @@ First exit at 15 ($50k). Math olympiad. Into AI, robotics, physical AI, startups
 [Paper](https://github.com/nonberw/suss/blob/main/paper/main.pdf) · [Project page](https://nonberw.github.io/suss/) · [DOI 10.5281/zenodo.24031898](https://doi.org/10.5281/zenodo.24031898)
 
 **[LISTEN](https://github.com/nonberw/listen): When Do Robot Policies Learn to Listen?** A controlled, pre-registered study of why language-conditioned robot policies ignore their instructions. Holding the data budget, expert and architecture fixed and raising only the share of scenes demonstrated with several instructions from 0 to 0.5 lifts counterfactual instruction following from 48.9% to 71.3%.
-[Paper](https://github.com/nonberw/listen/blob/main/paper/main.pdf)
+[Paper](https://github.com/nonberw/listen/blob/main/paper/main.pdf) · [Project page](https://nonberw.github.io/listen/) · [DOI 10.5281/zenodo.24041281](https://doi.org/10.5281/zenodo.24041281)
 
 ## Robot learning from scratch
 
 No RL libraries, no IK packages, no OpenCV, no pretrained models: the interesting parts are written by hand, then measured.
+
+<p align="center">
+  <a href="https://github.com/nonberw/zoomies"><img src="assets/gifs/zoomies.gif" width="49%" alt="ZOOMIES: the quadruped walking on velocity commands"></a>
+  <a href="https://github.com/nonberw/yoink"><img src="assets/gifs/yoink.gif" width="49%" alt="YOINK: the arm finding cubes with its camera and sorting them by colour"></a>
+  <a href="https://github.com/nonberw/copycat"><img src="assets/gifs/copycat.gif" width="49%" alt="COPYCAT: a learned policy placing a cube on a pad"></a>
+  <a href="https://github.com/nonberw/armageddon"><img src="assets/gifs/armageddon.gif" width="49%" alt="ARMageddon: the arm tracking a figure-eight with inverse kinematics"></a>
+</p>
 
 | Project | What it is | Headline |
 |---|---|---|
@@ -47,3 +54,9 @@ No RL libraries, no IK packages, no OpenCV, no pretrained models: the interestin
 - Hypotheses and tests go in a commit before the main experiments run. What failed stays in the paper.
 - Every number should be traceable to a results file the code wrote, not to my memory.
 - If it doesn't run on a 4 GB laptop, it doesn't ship. The laptop has opinions about this and falls asleep mid-run to share them.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nonberw/nonberw/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nonberw/nonberw/output/snake.svg">
+  <img alt="The contribution graph, being eaten by a snake" src="https://raw.githubusercontent.com/nonberw/nonberw/output/snake.svg" width="100%">
+</picture>
