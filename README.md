@@ -1,6 +1,13 @@
-# Anuar Zhambakin
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Anuar Zhambakin. Founder of Athena Labs, building physical AI. A dusk skyline where San Francisco meets Tokyo.">
+</p>
 
-I build robots that learn, mostly from scratch and mostly on one laptop with a 4 GB GPU. Then I open the models up to see what they actually learned, with the hypotheses written down before the experiments, so I can't move the goalposts afterwards. Spoiler: the goalposts are usually somewhere else.
+**Founder of Athena Labs.** First exit at 15 ($50k). Math olympiad.
+Into AI, robotics, physical AI, startups and venture.
+
+<p align="center">
+  <img src="assets/hands.svg" width="100%" alt="A human hand and a robot hand reach for each other until a spark jumps between their fingertips.">
+</p>
 
 ## Research
 
