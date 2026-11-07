@@ -2,8 +2,16 @@
   <img src="assets/banner.svg" width="100%" alt="Anuar Zhambakin. Founder of Athena Labs, building physical AI. A dusk skyline where San Francisco meets Tokyo.">
 </p>
 
-**Founder of Athena Labs.** First exit at 15 ($50k). Math olympiad.
-Into AI, robotics, physical AI, startups and venture.
+<p align="center">
+  <a href="https://www.athenaa.xyz/"><img src="https://img.shields.io/badge/Athena_Labs-athenaa.xyz-1b1640?style=for-the-badge" alt="Athena Labs: athenaa.xyz"></a>
+  <a href="https://trytetsu.com"><img src="https://img.shields.io/badge/Tetsu-trytetsu.com-c8432f?style=for-the-badge" alt="Tetsu: trytetsu.com"></a>
+</p>
+
+**Founder of [Athena Labs](https://www.athenaa.xyz/).** Physical AI that doesn't start at $15,000: robot arms and rugged edge AI computers for schools, labs and industry, designed and built in Almaty.
+
+**Building [Tetsu](https://trytetsu.com).** Describe it, build it: from one sentence to real CAD, wiring and firmware for robots and hardware.
+
+First exit at 15 ($50k). Math olympiad. Into AI, robotics, physical AI, startups and venture.
 
 <p align="center">
   <img src="assets/hands.svg" width="100%" alt="A human hand and a robot hand reach for each other until a spark jumps between their fingertips.">
