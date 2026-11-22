@@ -43,6 +43,7 @@ No RL libraries, no IK packages, no OpenCV, no pretrained models: the interestin
 | [COPYCAT](https://github.com/nonberw/copycat) | imitation learning: scripted expert, DART noise, BC vs action chunking | with 200 demos: ACT-lite 98%, chunked MLP 100%, plain BC 82% |
 | [ZOOMIES](https://github.com/nonberw/zoomies) | a quadruped I designed plus PPO written from scratch, 1024 robots in parallel | walks in about 20 minutes, survives a 1.5 m/s kick 93% of the time |
 | [SPUD](https://github.com/nonberw/spud) | Isaac-lite for weak laptops: layer streaming and huge simulations | a 2B-parameter model in 0.5-0.65 GB of VRAM; 65,536 robots walking at once |
+| [BULLY](https://github.com/nonberw/bully) | Finds where a robot policy breaks before the customer does; pre-registered | guided search finds 2.8x more failures than random testing; training on them cuts field failures from 12.1% to 3.7% |
 
 ## Out in the world
 
